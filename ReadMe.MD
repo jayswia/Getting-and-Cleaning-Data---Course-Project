@@ -7,16 +7,16 @@ This is an overview of the course project data, variables and functions for the 
 setwd("C:/R-Coursera/GACD_courseproject")
 <H1>Varables</H1>
 <H2>Data Frames</H2>
-x_test <- X_test.txt Data File
-y_test <- y_test.txt Data File
-s_test <- subject_test.txt Data File
-c_test <- Combining - y_test, s_test, x_test
-x_train <- X_train.txt Data File
-y_train <- y_train.txt Data File
-s_train <- subject_train.txt Data File
-c_train <- Combining - y_train, s_train, x_train 
-c_complete <- Merge to get a complete dataset
-act_labels <- activity_labels.txt Data File
+*x_test <- X_test.txt Data File
+*y_test <- y_test.txt Data File
+*s_test <- subject_test.txt Data File
+*c_test <- Combining - y_test, s_test, x_test
+*x_train <- X_train.txt Data File
+*y_train <- y_train.txt Data File
+*s_train <- subject_train.txt Data File
+*c_train <- Combining - y_train, s_train, x_train 
+*c_complete <- Merge to get a complete dataset
+*act_labels <- activity_labels.txt Data File
 
 <H1>Transformations</H1>
 <H2>Rename Col Names</H2>
